@@ -1,5 +1,7 @@
 # vMotion-App-Notif
-Supporting Scripts for Enabling vMotion Application Notification in a VMware vSphere Environment
+Supporting Scripts for Enabling vMotion Application Notification in a VMware vSphere Environment.
+
+See full blog post here - https://core.vmware.com/blog/how-enable-and-configure-new-vmotion-application-notification-feature-vm
 
 To help you get started on testing the feature described above, we are have made a zipped package of Sample Scripts available for download here. These Sample Scripts are intended to help you jumpstart your review and evaluation of the vMotion Application Notification feature in your environment. The package contains the following individual files:
 
